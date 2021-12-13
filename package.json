@@ -90,6 +90,6 @@
     "typescript": "^4.5.3"
   },
   "dependencies": {
-    "decarg": "^1.0.1"
+    "decarg": "^1.0.2"
   }
 }
