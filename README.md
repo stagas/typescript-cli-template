@@ -36,7 +36,7 @@ $ npm i my-cli-app -g
 
 ### run
 
-[src/index.ts:43-45](https://github.com/stagas/typescript-cli-template/blob/70f1cf5b41e644f8cbb2b22aa0f6b7ea3dd1dd61/src/index.ts#L43-L45 "Source code on GitHub")
+[src/index.ts:43-46](https://github.com/stagas/typescript-cli-template/blob/ee315409256990cd10df682d8736dec4bad04cbc/src/index.ts#L43-L46 "Source code on GitHub")
 
 Runs the cli app.
 
